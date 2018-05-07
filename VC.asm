@@ -1,11 +1,4 @@
 # Mark Mileyev
-# mmileyev@ucsc.edu
-# Lab 6 due Mar 11
-# Section 01C Maxwell
-
-# NOTE: DOES NOT CHECK FOR 30 CHAR LIMIT
-
-# SECRET NUMBERS: 0b1100, 0123
 
 ########## Pseudocode ###########
 # EC: Subtract key by 65, then add that to the message
